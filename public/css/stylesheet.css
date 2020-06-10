@@ -1,0 +1,81 @@
+
+
+body {
+    background-image: url("../img/FONDO-CELESTE.jpg") ;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: signikaregular;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.required{
+margin-right: 20px;
+font-size: 28px;
+}
+
+#user{
+    margin-top: 51px;
+   display: flex;
+    justify-content: center;
+}
+#user_Registar{
+
+ border-radius: 50px;
+ 
+}
+  #btn{
+      margin-top: 20px;
+      padding: 10px;
+  }
+  #btnD{
+      font-size: 18px;
+    margin-left: 1040px;
+    
+     
+  }
+a{
+    color: purple;
+    font-size: 19px;
+    font-family: fantasy;
+    text-decoration: underline;
+    display: block;
+    padding-top: 2px;
+
+}
+tr{
+border: 3px solid black ;
+}
+
+td{
+    font-family: cursive;
+    font-size: 16px;
+
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: signikabold;
+    color: black;
+}
+
+.navbar{
+    background-color: white !important;
+    font-family: signikabold;
+    font-size: 1.5em;
+}
+
+.navbar-brand{
+    font-family: remachine_script_personal_uRg;
+    font-size: 2em;
+    color: teal !important;
+}
+
+.nav-link{
+    color:  teal !important;
+}
+
+
