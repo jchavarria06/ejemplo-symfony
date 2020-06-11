@@ -8,6 +8,7 @@ Una vez descargado se debe mover a la carpeta de C:\Users\nombreUsuario
 Se debe crear la base datos en http://localhost/phpmyadmin/ con el nombre de multimedios.
 Una vez creada la base de datos se debe de importar desde el script que se encuentra en la carpeta del proyecto.Esto creará la estructura necesaria para la ejecución del ejemplo.
 Acceda a el símbolo del sistema se accede al proyecto “cd ejemplo”.
+Se escribe el comando “composer install”, y esperamos a que termine.
 Se inicializa el servidor de symfony, “symfony server:start”.
 Se accede en un navegador a la dirección que el sistema ,”http://127.0.0.1:8000/posts/”.
 Hacer click en el enlace create new, se redireccionará a la página para agregar un nuevo post.
